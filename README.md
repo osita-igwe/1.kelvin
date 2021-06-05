@@ -1,4 +1,6 @@
 # Kelvin Weather
+### A Basic Introductory Javascript Exercise
+===
 
 
 ## PROMPT 
